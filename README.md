@@ -1,7 +1,9 @@
-# IC-2K23-50-DAA--Keshav-Sharma-
 # Design and Analysis of Algorithms (DAA) Lab
 
 This repository contains my laboratory assignments and implementations for the Design and Analysis of Algorithms course. All algorithms are implemented in Python and feature a custom benchmarking engine to dynamically compare theoretical time complexity against experimental hardware execution times.
+
+**Author:** Jagrati Tripathi | MCA, IIPS-DAVV
+
 ## Table of Contents
 
 | Unit | Topic | Concepts / Algorithms Used | Link |
@@ -12,6 +14,10 @@ This repository contains my laboratory assignments and implementations for the D
 | **Unit 3** | Greedy Method | Fractional Knapsack, Job Scheduling with Deadlines | [View Unit](./Unit03-Greedy-Method/) |
 | **Unit 3** | Greedy Graph Algorithms | Prim's, Kruskal's, Dijkstra's (Single-Source) | [View Unit](./Unit03-Greedy-Method/) |
 | **Unit 4** | Dynamic Programming | 0/1 Knapsack, Floyd-Warshall (All-Pairs) | [View Unit](./Unit04-Dynamic-Programming/) |
+| **Unit 5** | Graph Fundamentals | Adjacency Matrix, Adjacency List | [View Unit](./Unit05-Traversal-and-Search/) |
+| **Unit 5** | Traversal and Search | Breadth-First Search (BFS), Depth-First Search (DFS) | [View Unit](./Unit05-Traversal-and-Search/) |
+| **Unit 6** | Backtracking | *(Upcoming implementations)* | [View Unit](./Unit06-Backtracking/) |
+| **Unit 7** | NP-Hard & NP-Complete | *(Upcoming implementations)* | [View Unit](./Unit07-NP-Hard-NP-Complete/) |
 
 ## Setup & Requirements
 - Python 3.8+
